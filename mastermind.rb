@@ -159,6 +159,6 @@ class Mastermind
         end 
     end 
 
-end 
+end
 
 mastermind = Mastermind.new 
